@@ -1,4 +1,4 @@
-package mia.heapsort;
+package mia.sorting;
 
 import mia.utils.ArrayUtils;
 
